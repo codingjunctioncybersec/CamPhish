@@ -1,6 +1,7 @@
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+![Screenshot 2025-03-17 144407](https://github.com/user-attachments/assets/f9534e1a-8aca-42f4-b326-a7c56845d534)
+
 
 # What is CamPhish?
 <p>CamPhish is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & CloudFlare Tunnel to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device
